@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="mobile_app_development">모바일 앱 개발</string>
+    <string name="like">좋아요</string>
+    <string name="share">공유</string>
+    <string name="subscribe">구독</string>
+    <string name="translate_to_hindi">힌디어로 번역</string>
+    <string name="translate_to_spanish">스페인어로 번역</string>
+    <string name="translate_to_french">프랑스어로 번역</string>
+    <string name="translate_to_korean">한국어로 번역</string>
+    <string name="translate_to_english">영어로 번역</string>
+
+
+</resources>

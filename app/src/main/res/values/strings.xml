@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Translate App Language</string>
+    <string name="mobile_app_development">Mobile App Development</string>
+    <string name="like">Like</string>
+    <string name="share">Share</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="translate_to_hindi">Translate to Hindi</string>
+    <string name="translate_to_spanish">Translate to Spanish</string>
+    <string name="translate_to_french">Translate to French</string>
+    <string name="translate_to_korean">Translate to Korean</string>
+    <string name="translate_to_english">Translate to English</string>
+</resources>

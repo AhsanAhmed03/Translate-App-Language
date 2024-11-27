@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_app_development">मोबाइल ऐप विकास</string>
+    <string name="like">पसंद</string>
+    <string name="share">साझा करें</string>
+    <string name="subscribe">सदस्यता लें</string>
+    <string name="translate_to_hindi">हिंदी में अनुवाद करें</string>
+    <string name="translate_to_spanish">स्पेनिश में अनुवाद करें</string>
+    <string name="translate_to_french">फ्रेंच में अनुवाद करें</string>
+    <string name="translate_to_korean">कोरियाई में अनुवाद करें</string>
+    <string name="translate_to_english">अंग्रेजी में अनुवाद करें</string>
+
+</resources>
